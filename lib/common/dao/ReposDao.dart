@@ -29,7 +29,6 @@ import 'package:gsy_github_app_flutter/common/net/Address.dart';
 import 'package:gsy_github_app_flutter/common/net/Api.dart';
 import 'package:gsy_github_app_flutter/common/net/trending/GithubTrending.dart';
 import 'package:gsy_github_app_flutter/common/redux/TrendRedux.dart';
-import 'package:gsy_github_app_flutter/common/style/GSYStyle.dart';
 import 'package:gsy_github_app_flutter/common/utils/CommonUtils.dart';
 import 'package:package_info/package_info.dart';
 import 'package:pub_semver/pub_semver.dart';
